@@ -7,3 +7,32 @@
 <p align="justify">
 🚀 Team name is: TeamTA.
 </p>
+
+<p align="justify">
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key))
+
+</p>
+
+<div align="center">
+	<table>
+		<tr>
+			<td align="center" valign="top">
+					<img src="https://github.com/NguyenTriBaoThang.png?s=150" loading="lazy" width="150" height="150">
+	        <br>
+	        <a href="https://github.com/NguyenTriBaoThang">Bao Thang</a>
+	        <p>
+	          <a href="https://github.com/NguyenTriBaoThang/SmartShoppingSystem/commits?author=NguyenTriBaoThang" title="Developer">💻</a>
+	        </p>
+			</td>
+			<td align="center" valign="top">
+					<img src="https://github.com/an22-kita.png?s=150" loading="lazy" width="150" height="150">
+	        <br>
+	        <a href="https://github.com/an22-kita">Thuan An</a>
+	        <p>
+	          <a href="https://github.com/NguyenTriBaoThang/SmartShoppingSystem/commits?author=nguyenthuanan22" title="Developer">💻</a>
+	        </p>
+			</td>
+		</tr>
+	</table>
+</div>
