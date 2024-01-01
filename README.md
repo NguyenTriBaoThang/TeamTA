@@ -28,9 +28,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 	        </p>
 			</td>
 			<td align="center" valign="top">
-					<img src="https://github.com/an22-kita.png?s=150" loading="lazy" width="150" height="150">
+					<img src="https://github.com/nguyenthuanan22.png?s=150" loading="lazy" width="150" height="150">
 	        <br>
-	        <a href="https://github.com/an22-kita">Thuan An</a>
+	        <a href="https://github.com/nguyenthuanan22">Thuan An</a>
 	        <p>
 	          <a href="https://github.com/NguyenTriBaoThang/SmartShoppingSystem/commits?author=nguyenthuanan22" title="Developer">💻</a>
 	        </p>
